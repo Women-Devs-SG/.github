@@ -23,7 +23,7 @@ Interested in becoming a sponsor? Reach out to us for more details on our sponso
 
 ## Frequently Asked Questions 📝
 ### How can I join Women Devs SG?
-Our community is open to women and any individuals interested in tech. Simply join our [Telegram group](https://t.me/+hh3Fts4oDG41NzQ1) or [Meetup group](https://www.meetup.com/women-devs-sg/) to participate in our events and get started!
+Our community is open to women technologists, mid career switchers and leaders based in Singapore. Simply join our [Telegram group](https://t.me/+hh3Fts4oDG41NzQ1) or [Meetup group](https://www.meetup.com/women-devs-sg/) to participate in our events and get started!
 
 ### Can I contribute to your open source projects?
 While we welcome contributions from everyone around the world, preference will be given to:
