@@ -25,6 +25,14 @@ Interested in becoming a sponsor? Reach out to us for more details on our sponso
 ### How can I join Women Devs SG?
 Our community is open to women and any individuals interested in tech. Simply join our [Telegram group](https://t.me/+hh3Fts4oDG41NzQ1) or [Meetup group](https://www.meetup.com/women-devs-sg/) to participate in our events and get started!
 
+### Can I contribute to your open source projects?
+While we welcome contributions from everyone around the world, preference will be given to:
+1. Women developers based in Singapore
+2. Members of the WDS Telegram community group
+
+This ensures our Hacktoberfest efforts stay aligned with our mission of building a strong local women-in-tech community.
+We thank you for your understanding!
+
 ### How can I join Women Devs SG as a volunteer?
 We’re always looking for passionate volunteers to join WomenDevsSG! [Sign up here](https://forms.gle/9Lg9Dx8ETdZRvqjx8), and we’ll follow up with a welcome email in a couple of weeks. Onboarding sessions are held monthly to help you get started.
 
