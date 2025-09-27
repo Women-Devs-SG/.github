@@ -30,7 +30,7 @@ While we welcome contributions from everyone around the world, preference will b
 1. Women developers based in Singapore
 2. Members of the WDS Telegram community group
 
-This ensures our Hacktoberfest efforts stay aligned with our mission of building a strong local women-in-tech community.
+This ensures our efforts stay aligned with our mission of building a strong local women-in-tech community.
 We thank you for your understanding!
 
 ### How can I join Women Devs SG as a volunteer?
